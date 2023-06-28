@@ -1,4 +1,4 @@
-// 사분면 고르기
+// https://www.acmicpc.net/problem/14681
 
 let x = Int(readLine()!)!
 let y = Int(readLine()!)!

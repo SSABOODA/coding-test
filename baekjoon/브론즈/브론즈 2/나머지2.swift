@@ -1,4 +1,4 @@
-// https://www.acmicpc.net/submit/3052/62391620
+// https://www.acmicpc.net/problem/3052
 
 var remainArr = Set<Int>()
 
