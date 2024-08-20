@@ -30,3 +30,6 @@ while true {
         break
     }
 }
+
+// 괜찮은 풀이법
+//https://www.acmicpc.net/source/29533262
