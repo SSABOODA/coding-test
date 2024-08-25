@@ -8,4 +8,3 @@ while x > 0 {
     bitCount += 1
 }
 print(bitCount)
-
